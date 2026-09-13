@@ -1,0 +1,6 @@
+{
+  "name": "Royal Gupta Bites",
+  "description": "Full-Stack Restaurant Management & Online Food Ordering System with Role-Based Portals, Kitchen Display System (KDS), Table Reservations, Inventory Management, and SaaS Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
